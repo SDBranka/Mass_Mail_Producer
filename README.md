@@ -14,7 +14,7 @@ A lightweight app to mass produce personalized letters from a sample letter and 
 
 ##### Controls
 
-[See How To Use](#how-to-use)
+[See: How To Use](#how-to-use)
 
 ##### Technologies
 
@@ -26,8 +26,8 @@ A lightweight app to mass produce personalized letters from a sample letter and 
 ## How To Use
 
 - Download or clone this repository to your desktop. 
-- Write the letter that you wish to mass produce into the starting_letter.txt file in the Letters folder using "\[name\]" in the place where you wish to insert a name.
-- Record the names to wish to replace into the placeholder spot into the invited_names.txt file in the Names folder.
+- Write the letter that you wish to mass produce into the starting_letter.txt file in the Letters folder in the Input folder using "\[name\]" in the place where you wish to insert a name.
+- Record the names to wish to replace into the placeholder spot into the invited_names.txt file in the Names folder in the Input folder with each name on a new line.
 - Run main.py in an appropriate Python environment.
 - The produced letters will be saved to the ReadyToSend folder in the Output folder.
 
